@@ -1,12 +1,22 @@
-<h1 align="center">Hi 👋, I'm Gerard Gispert Carreras</h1>
-<h3 align="center">Computer engineering student int FIB-UPC, 42Barcelona and Intern as a Full-Stack Developer in Amphora Logistics.</h3>
+<h1 align="center"> Hi, I’m Gerard Gispert Carreras 🙋🏻‍♂️ </h1>
 
-- 🌱 I’m currently learning **Vue.js**
+## ▪️ I'm studying computer engineering at [FIB-UPC](https://www.fib.upc.edu/ca) and the 42 cursus at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
+## - Also working as a Full-Stack Developer Intern at [Amphora Logistics] (https://amphoralogistics.com/)
 
-<h3 align="left">Connect with me:</h3>
+## ▪️ See my 42cursus progress ↙️ 
+
+◦ [42cursus progress](https://github.com/gerardgispertcarreras/42cursus)
+
+## ▪️ Github stats 📊
+
+![gerardgispertcarreras GitHub stats](https://github-readme-stats.vercel.app/api?username=gerardgispertcarreras&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardgispertcarreras&layout=compact&theme=github_dark)
+
+## ▪️ Contact me 📥
+
+Email: gerardgispertcarreras@gmail.com
+
 <p align="left">
 <a href="https://linkedin.com/in/gerard-gispert-carreras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerard-gispert-carreras" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>

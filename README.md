@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I’m Gerard Gispert Carreras 🙋🏻‍♂️ </h1>
 
-## ▪️ I'm studying computer engineering at [FIB-UPC](https://www.fib.upc.edu/ca) and the 42 cursus at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
+## ▪️ I'm studying computer science at [FIB-UPC](https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica) and the [42 cursus](https://github.com/gerardgispertcarreras/42-cursus) at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
 
 ## ▪️ Also working as a Full-Stack Developer Intern at [Amphora Logistics](https://amphoralogistics.com/)
 

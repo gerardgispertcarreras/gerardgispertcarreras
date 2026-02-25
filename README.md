@@ -20,10 +20,30 @@ I’m particularly interested in how data and AI can enhance decision-making and
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-🚧 Projects currently being refined and documented.  
-Detailed case studies coming soon.
+### 📘 42-cursus — Systems Programming & Algorithms (C)
+A collection of projects completed during the 42 Barcelona curriculum, focused on low-level programming, algorithms, and Unix systems.
+
+- Implemented a custom C standard library (`libft`)
+- Recreated Unix pipe behavior (`pipex`)
+- Built an optimized stack sorting algorithm (`push-swap`)
+- Rendered Mandelbrot and Julia fractals using MinilibX (`fract-ol`)
+
+**Tech:** C · Makefiles · Unix · Algorithms · Memory management  
+🔗 https://github.com/gerardgispertcarreras/42-cursus
+
+---
+
+### 🎾 ATP Tournament Simulator — C++ CLI Application
+A command-line application that simulates an ATP tennis circuit, modeling players, tournaments, rankings, and match progression.
+
+- Designed structured data models for players and tournaments
+- Implemented ranking updates and bracket simulations
+- Focused on clean architecture and STL-based implementation
+
+**Tech:** C++11 · OOP · STL · Data structures  
+🔗 https://github.com/gerardgispertcarreras/atp-tournament-sim
 
 ---
 
